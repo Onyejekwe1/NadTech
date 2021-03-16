@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NadTech.Core\NadTech.Core.csproj" />
+    <ProjectReference Include="..\NadTech.Data\NadTech.Data.csproj" />
+  </ItemGroup>
+
+</Project>

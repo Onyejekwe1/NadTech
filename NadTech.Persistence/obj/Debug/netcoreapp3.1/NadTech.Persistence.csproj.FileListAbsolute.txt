@@ -1,0 +1,14 @@
+C:\Projects\NadTech\NadTech\NadTech.Persistence\bin\Debug\netcoreapp3.1\NadTech.Persistence.deps.json
+C:\Projects\NadTech\NadTech\NadTech.Persistence\bin\Debug\netcoreapp3.1\NadTech.Persistence.dll
+C:\Projects\NadTech\NadTech\NadTech.Persistence\bin\Debug\netcoreapp3.1\NadTech.Persistence.pdb
+C:\Projects\NadTech\NadTech\NadTech.Persistence\bin\Debug\netcoreapp3.1\NadTech.Core.dll
+C:\Projects\NadTech\NadTech\NadTech.Persistence\bin\Debug\netcoreapp3.1\NadTech.Data.dll
+C:\Projects\NadTech\NadTech\NadTech.Persistence\bin\Debug\netcoreapp3.1\NadTech.Core.pdb
+C:\Projects\NadTech\NadTech\NadTech.Persistence\bin\Debug\netcoreapp3.1\NadTech.Data.pdb
+C:\Projects\NadTech\NadTech\NadTech.Persistence\obj\Debug\netcoreapp3.1\NadTech.Persistence.csprojAssemblyReference.cache
+C:\Projects\NadTech\NadTech\NadTech.Persistence\obj\Debug\netcoreapp3.1\NadTech.Persistence.AssemblyInfoInputs.cache
+C:\Projects\NadTech\NadTech\NadTech.Persistence\obj\Debug\netcoreapp3.1\NadTech.Persistence.AssemblyInfo.cs
+C:\Projects\NadTech\NadTech\NadTech.Persistence\obj\Debug\netcoreapp3.1\NadTech.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\NadTech\NadTech\NadTech.Persistence\obj\Debug\netcoreapp3.1\NadTech.Persistence.csproj.CopyComplete
+C:\Projects\NadTech\NadTech\NadTech.Persistence\obj\Debug\netcoreapp3.1\NadTech.Persistence.dll
+C:\Projects\NadTech\NadTech\NadTech.Persistence\obj\Debug\netcoreapp3.1\NadTech.Persistence.pdb

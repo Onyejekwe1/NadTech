@@ -1,0 +1,12 @@
+C:\Projects\NadTech\NadTech\NadTech.Service\bin\Debug\netcoreapp3.1\NadTech.Service.deps.json
+C:\Projects\NadTech\NadTech\NadTech.Service\bin\Debug\netcoreapp3.1\NadTech.Service.dll
+C:\Projects\NadTech\NadTech\NadTech.Service\bin\Debug\netcoreapp3.1\NadTech.Service.pdb
+C:\Projects\NadTech\NadTech\NadTech.Service\bin\Debug\netcoreapp3.1\NadTech.Core.dll
+C:\Projects\NadTech\NadTech\NadTech.Service\bin\Debug\netcoreapp3.1\NadTech.Core.pdb
+C:\Projects\NadTech\NadTech\NadTech.Service\obj\Debug\netcoreapp3.1\NadTech.Service.csprojAssemblyReference.cache
+C:\Projects\NadTech\NadTech\NadTech.Service\obj\Debug\netcoreapp3.1\NadTech.Service.AssemblyInfoInputs.cache
+C:\Projects\NadTech\NadTech\NadTech.Service\obj\Debug\netcoreapp3.1\NadTech.Service.AssemblyInfo.cs
+C:\Projects\NadTech\NadTech\NadTech.Service\obj\Debug\netcoreapp3.1\NadTech.Service.csproj.CoreCompileInputs.cache
+C:\Projects\NadTech\NadTech\NadTech.Service\obj\Debug\netcoreapp3.1\NadTech.Service.csproj.CopyComplete
+C:\Projects\NadTech\NadTech\NadTech.Service\obj\Debug\netcoreapp3.1\NadTech.Service.dll
+C:\Projects\NadTech\NadTech\NadTech.Service\obj\Debug\netcoreapp3.1\NadTech.Service.pdb
